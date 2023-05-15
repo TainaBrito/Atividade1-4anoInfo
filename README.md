@@ -1,6 +1,6 @@
 ﻿# Atividade1-4anoInfo
  // Inicialização de dados
-let contacts = [{ nome: "João", telefone: "9999-9999" }, { oame: "Maria", telefone: "8888-8888" }];
+let contacts = [{ nome: "João", telefone: "9999-9999" }, { nome: "Maria", telefone: "8888-8888" }];
 
 // Funções CRUD
 function createContact(nome, telefone) {
